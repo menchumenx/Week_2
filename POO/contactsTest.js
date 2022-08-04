@@ -13,4 +13,4 @@ let juanito = new persona("gomez",60,186,80,"largo","azul","azules",["cocinar","
 
 let libreta = new contacto(juan,juanita,juanito);
 
-console.log(libreta);
+console.log(libreta.printPersons);
